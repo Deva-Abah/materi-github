@@ -2,3 +2,9 @@
 2.Bukang
 6.alat tulis
 7.terserah bng
+1.Bantal
+2.Name tag
+3.Bukating
+4.Slayer
+5.Kaos
+6.Topi
